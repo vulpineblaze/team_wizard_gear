@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="120.31596mm"
+   height="113.54159mm"
+   viewBox="0 0 426.31638 402.31271"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="tykva_logo_try2.svg"
+   inkscape:export-filename="C:\Users\dt209189\Documents\_tmp_git\team_wizard_gear\png output\tykva_logo_try2.png"
+   inkscape:export-xdpi="300.039"
+   inkscape:export-ydpi="300.039">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="290.26298"
+     inkscape:cy="235.44081"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="988"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10"
+     fit-margin-left="10" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-99.380878,-416.58854)">
+    <path
+       style="fill:#393939;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 322.15234,464.53776 c -3.30452,0.77479 4.24886,53.57948 -5.55078,46.76953 -5.65791,-3.93179 -27.20781,-23.66707 -52.89258,5.90234 -23.46917,-25.72561 -68.43918,-5.82577 -82.42382,25.91797 -8.96865,27.8534 -13.79945,50.86018 -15.2793,70.61133 l 100.23242,0 a 55.053314,55.053314 0 0 1 54.8711,-51.41601 55.053314,55.053314 0 0 1 54.92578,51.41601 l 89.58008,0 c -0.15767,-15.74685 -1.68742,-33.8356 -5.03126,-54.78125 -2.52395,-11.31992 -24.89996,-65.16229 -57.55468,-40.31836 -51.36053,-55.39223 -76.17398,59.5126 -61.58594,-52.94726 -6.53268,-0.99917 -14.08561,6.64541 -18.20117,-0.16211 -0.4532,-0.74963 -0.8098,-1.05785 -1.08985,-0.99219 z"
+       id="path4492" />
+    <path
+       style="fill:#9c9c9c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 374.14258,631.92057 a 55.053314,55.053314 0 0 1 -53.0332,40.50781 55.053314,55.053314 0 0 1 -53.0879,-40.50781 l -102.42382,0 c 1.36707,40.1571 18.49305,66.35277 42.42382,96.73242 26.14492,19.6514 53.74492,12.28505 71.86133,-1.51562 17.80426,7.85645 56.934,19.24577 76.00391,-7.07031 20.08075,26.30433 57.98602,21.44532 68.25391,7.99414 14.37889,-18.97903 37.39785,-40.21783 41.00585,-96.14063 l -91.0039,0 z"
+       id="path4483" />
+    <circle
+       style="fill:#393939;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4494"
+       cx="320.9614"
+       cy="617.06964"
+       r="34.345188" />
+  </g>
+</svg>
